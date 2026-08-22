@@ -1,0 +1,3 @@
+employee_name,email,hire_date,salary,meal_allowance,transport_allowance,department_id,position_id
+Carlos Lopez,carlos.lopez@company.com,2020-05-13,4200,1200,250,2,1
+Rogerio Dantas,rogerio.dantas@company.com,2020-05-13,4200,1200,250,2,2
